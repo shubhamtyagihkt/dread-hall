@@ -17,10 +17,6 @@ Dread Hall is a 3d Game developed in Unity version 2018.4.15f1
 #### Beware of holes on the floor, they will consume you 😈😈. Game Over!!!
 #### Enjoy the game 😉😉
 
-#### On completing level you will be forwarded to another level.
-#### Next level will have more obstacle car than previos one.
-#### Currently there are only three levels; it can be extended easily.
-
 ## GAME CONTROLS:
 ### W - move forward
 ### A - left turn
